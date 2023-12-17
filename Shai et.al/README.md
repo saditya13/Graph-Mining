@@ -16,3 +16,4 @@ Instructions to use LLM as predictor:-
 
 
 All the above files have by default 180 Movie reviews and can run based on it. Change the hyperparams as you feel necessary for larger dataset. 
+Also we have provided the train and test MR dataset, change it accordingly in the program for your own use.
